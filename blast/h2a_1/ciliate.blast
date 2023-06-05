@@ -1,0 +1,13 @@
+# BLASTP 2.14.0+
+# Query: NP_001017990.1 H2AB1 [organism=Homo sapiens] [GeneID=474382]
+# Database: /mnt/storage/project_2023/proteomes/ciliate.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_001017990.1	XP_001026177.1	43.956	91	51	0	18	108	18	108	2.70e-20	80.1
+NP_001017990.1	XP_001021342.1	43.478	92	52	0	18	109	18	109	2.77e-20	79.7
+NP_001017990.1	XP_001025688.2	31.193	109	70	1	6	109	317	425	4.00e-09	52.8
+NP_001017990.1	XP_001011105.2	41.860	86	49	1	21	105	29	114	1.74e-07	47.0
+NP_001017990.1	XP_001012206.2	29.032	31	22	0	21	51	407	437	2.0	28.1
+NP_001017990.1	XP_001020476.1	37.931	29	17	1	55	83	471	498	6.4	26.6
+NP_001017990.1	XP_001012666.2	34.615	26	17	0	85	110	219	244	9.7	26.2
+# BLAST processed 1 queries

@@ -1,0 +1,10 @@
+# BLASTP 2.14.0+
+# Query: NP_003523.1 H3C6 [organism=Homo sapiens] [GeneID=8353]
+# Database: /mnt/storage/project_2023/proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+NP_003523.1	WP_011249686.1	27.273	44	28	1	15	54	102	145	1.6	22.7
+NP_003523.1	WP_011250447.1	23.684	38	29	0	26	63	79	116	3.1	21.6
+NP_003523.1	WP_011250715.1	29.825	57	38	1	11	65	74	130	3.6	21.6
+NP_003523.1	WP_011250370.1	26.829	41	23	1	15	55	50	83	6.5	20.8
+# BLAST processed 1 queries

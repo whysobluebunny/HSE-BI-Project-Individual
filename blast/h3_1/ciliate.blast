@@ -1,0 +1,12 @@
+# BLASTP 2.14.0+
+# Query: NP_003523.1 H3C6 [organism=Homo sapiens] [GeneID=8353]
+# Database: /mnt/storage/project_2023/proteomes/ciliate.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_003523.1	XP_012655226.1	91.429	70	6	0	1	70	1	70	1.72e-41	131
+NP_003523.1	XP_001016594.3	91.429	70	6	0	1	70	1	70	1.72e-41	131
+NP_003523.1	XP_001008397.1	88.571	70	8	0	1	70	1	70	7.96e-40	127
+NP_003523.1	XP_001008400.1	84.286	70	11	0	1	70	1	70	9.52e-38	122
+NP_003523.1	XP_001011273.1	60.000	30	12	0	41	70	80	109	4.47e-07	44.7
+NP_003523.1	XP_001007069.1	52.632	38	16	1	4	39	667	704	4.60e-04	36.6
+# BLAST processed 1 queries

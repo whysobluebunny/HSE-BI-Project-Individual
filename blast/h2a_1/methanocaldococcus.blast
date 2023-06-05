@@ -1,0 +1,15 @@
+# BLASTP 2.14.0+
+# Query: NP_001017990.1 H2AB1 [organism=Homo sapiens] [GeneID=474382]
+# Database: /mnt/storage/project_2023/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_001017990.1	WP_015790767.1	28.846	52	36	1	32	83	6	56	0.63	23.5
+NP_001017990.1	WP_015791414.1	28.846	52	36	1	32	83	6	56	0.69	23.5
+NP_001017990.1	WP_015791925.1	46.429	28	14	1	12	39	39	65	0.72	24.6
+NP_001017990.1	WP_048056464.1	50.000	24	9	1	49	69	38	61	2.0	23.1
+NP_001017990.1	WP_015791917.1	32.203	59	23	3	62	111	26	76	8.4	21.2
+NP_001017990.1	WP_015791028.1	27.778	54	39	0	32	85	491	544	8.5	21.6
+NP_001017990.1	WP_012794956.1	29.412	34	24	0	44	77	110	143	8.7	21.2
+NP_001017990.1	WP_012794996.1	25.000	52	35	1	11	58	191	242	9.1	21.2
+NP_001017990.1	WP_015791106.1	25.806	31	23	0	71	101	113	143	9.1	21.2
+# BLAST processed 1 queries

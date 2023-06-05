@@ -1,0 +1,11 @@
+# BLASTP 2.14.0+
+# Query: NP_003534.1 H4C8 [organism=Homo sapiens] [GeneID=8365]
+# Database: /mnt/storage/project_2023/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003534.1	WP_048056359.1	27.273	66	43	2	5	70	655	715	0.62	23.5
+NP_003534.1	WP_015791465.1	25.000	36	27	0	13	48	189	224	1.7	21.9
+NP_003534.1	WP_015791981.1	28.125	32	23	0	36	67	60	91	6.5	20.4
+NP_003534.1	WP_083767098.1	35.000	20	13	0	50	69	87	106	8.6	20.0
+NP_003534.1	WP_012794931.1	72.727	11	3	0	29	39	19	29	9.8	19.6
+# BLAST processed 1 queries

@@ -1,0 +1,13 @@
+# BLASTP 2.14.0+
+# Query: NP_003523.1 H3C6 [organism=Homo sapiens] [GeneID=8353]
+# Database: /mnt/storage/project_2023/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_003523.1	NP_014367.1	94.286	70	4	0	1	70	1	70	1.95e-43	134
+NP_003523.1	NP_009564.1	94.286	70	4	0	1	70	1	70	1.95e-43	134
+NP_003523.1	NP_012875.2	60.000	30	12	0	41	70	131	160	1.83e-07	43.9
+NP_003523.1	NP_010883.3	48.000	25	13	0	37	61	562	586	2.0	24.3
+NP_003523.1	NP_009628.1	46.667	30	12	2	14	42	32	58	2.6	23.9
+NP_003523.1	NP_011318.2	32.143	28	19	0	6	33	1197	1224	4.9	23.1
+NP_003523.1	NP_011787.4	52.941	17	8	0	27	43	201	217	9.8	22.3
+# BLAST processed 1 queries

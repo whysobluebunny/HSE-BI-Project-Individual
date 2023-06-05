@@ -1,0 +1,11 @@
+# BLASTP 2.14.0+
+# Query: NP_542160.1 H2BC12 [organism=Homo sapiens] [GeneID=85236]
+# Database: /mnt/storage/project_2023/proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_542160.1	WP_011250524.1	50.000	16	8	0	28	43	15	30	1.6	22.7
+NP_542160.1	WP_011249715.1	34.615	26	17	0	27	52	1281	1306	2.4	22.3
+NP_542160.1	WP_011249212.1	62.500	16	6	0	54	69	230	245	2.9	21.9
+NP_542160.1	WP_011249403.1	24.490	49	37	0	4	52	177	225	6.9	20.8
+NP_542160.1	WP_011250884.1	35.135	37	21	1	34	67	206	242	8.2	20.8
+# BLAST processed 1 queries

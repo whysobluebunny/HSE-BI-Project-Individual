@@ -1,0 +1,11 @@
+# BLASTP 2.14.0+
+# Query: NP_003523.1 H3C6 [organism=Homo sapiens] [GeneID=8353]
+# Database: /mnt/storage/project_2023/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003523.1	NP_414724.1	31.579	38	24	1	35	70	114	151	0.15	26.6
+NP_003523.1	NP_418157.1	35.556	45	27	1	2	46	132	174	2.6	23.1
+NP_003523.1	NP_415134.1	43.478	23	13	0	39	61	60	82	5.0	21.9
+NP_003523.1	NP_415818.1	31.579	38	26	0	7	44	264	301	7.1	21.6
+NP_003523.1	NP_416675.1	42.308	26	14	1	25	49	196	221	8.5	21.6
+# BLAST processed 1 queries

@@ -1,0 +1,9 @@
+# BLASTP 2.14.0+
+# Query: NP_001017990.1 H2AB1 [organism=Homo sapiens] [GeneID=474382]
+# Database: /mnt/storage/project_2023/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+NP_001017990.1	NP_217758.3	33.898	59	25	3	16	68	81	131	5.3	23.1
+NP_001017990.1	NP_216479.1	27.778	72	46	3	20	91	281	346	7.8	23.1
+NP_001017990.1	NP_216934.1	41.176	34	19	1	33	66	108	140	8.9	22.7
+# BLAST processed 1 queries
